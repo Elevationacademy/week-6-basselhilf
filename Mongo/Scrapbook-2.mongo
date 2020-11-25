@@ -1,0 +1,6 @@
+db.firstCollection.insert({ name: "Louise", salary: 1200 })
+db.firstCollection.insert({ name: "Rayna", salary: 2300 })
+db.firstCollection.insert({ name: "Soren", salary: 1500 })
+db.firstCollection.insert({ name: "Loreli", salary: 800 })
+db.firstCollection.insert({ name: "Milo", salary: 950 })
+db.firstCollection.insert({ name: "Brendon", salary: 1100 })

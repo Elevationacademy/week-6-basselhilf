@@ -1,0 +1,5 @@
+db.linkedon.count({
+    salary:{
+        $gt: 25000
+    }
+})
